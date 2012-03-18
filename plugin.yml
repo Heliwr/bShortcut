@@ -1,0 +1,11 @@
+name: bShortcut
+main: com.github.Heliwr.bShortcut.bShortcut
+version: 1.2.2
+author: beecub, Waterflames, Heliwr
+description: >
+             Shortcuts
+commands:
+  bShortcut:
+    description: Reload Command for bShortcut
+    usage: |
+           /<command> [reload]
